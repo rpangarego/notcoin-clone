@@ -5,10 +5,6 @@ This project is a clone of the popular Telegram mini app, Notcoin.
 
 ## Getting Started
 
-To get started with either the initial setup or the final version, follow these instructions:
-
-### Cloning the Repository
-
 1. **Clone the Repository**:
 
    ```bash
